@@ -4,7 +4,7 @@
 
 ![License](https://img.shields.io/github/license/nicksilvaio89f3/goio) ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-blue.svg)
 
-![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.2-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/nicksilvaio89f3/goio?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/nicksilvaio89f3/goio?style=flat-square)
+![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.3-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/nicksilvaio89f3/goio?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/nicksilvaio89f3/goio?style=flat-square)
 
 Customizable Darktable utility featuring adjustable options and keyboard shortcuts
 
